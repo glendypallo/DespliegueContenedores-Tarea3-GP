@@ -62,7 +62,7 @@ La tarea contiene los siguientes archivos:
 
 5. Definir la orquestación para analizar la imagen de fast-api indicando el nombre de la imagen con la cual se creará el repositorio en el Docker Hub
 
-   <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/b2bbefa9-546e-4053-b70a-9867578eeedb" />
+   <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/58550382-4201-48a4-8888-9fc5f4ca4cd5" />
 
    <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/57654097-72c6-43ce-be82-0c3b6da77d56" />
 
