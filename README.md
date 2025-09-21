@@ -1,4 +1,4 @@
-# Curso: Despliegue de aplicaciones con Docker<br/>CEC-EPN<br/><br/>Tarea 1:  Despliegue en Docker de phpMyAdmin
+# Curso: Despliegue de aplicaciones con Docker<br/>CEC-EPN<br/><br/>Tarea 3:  Análisis de vulnerabilidades con Docker Scout
 
 ![Lenguaje][lngsrv-shield]
 ![Servidor de contenedores][cont-shield]
@@ -52,25 +52,25 @@ La tarea contiene los siguientes archivos:
 
 4. Definir las variables de entorno con las credenciales del Git Hub de cada integrante del Grupo 3
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/066a87f3-92f8-44f5-9d57-8cdc0f2dce2b" />
+   <img width="886" height="440" alt="image" src="https://github.com/user-attachments/assets/c7ed43ff-1077-49aa-98eb-695b85b4cb1a" />
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/217424ac-527d-4c54-bdf6-46fe85c49af7" />
+   <img width="886" height="437" alt="image" src="https://github.com/user-attachments/assets/3387aace-5b7f-4099-a9d0-95a2dd3a5d60" />
 
 5. Construir el workflow del `Docker Scout`
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/765195e2-51ad-49da-82d7-ffe8f8248f51" />
+   ![Imagen de WhatsApp 2025-09-20 a las 22 56 25_d6d5c415](https://github.com/user-attachments/assets/a532f837-2eda-4f14-a4e2-6a6be162d6cf)
 
 5. Definir la orquestación para analizar la imagen de fast-api indicando el nombre de la imagen con la cual se creará el repositorio en el Docker Hub
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/2db20e34-8df8-4221-88dd-1c4848e571be" />
+   <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/b2bbefa9-546e-4053-b70a-9867578eeedb" />
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/5ea3d780-62ff-4cb9-994d-b10e5269d9e4" />
+   <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/57654097-72c6-43ce-be82-0c3b6da77d56" />
 
 6. Validar la ejecución del workflow
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/bd0c2e3a-34a7-4a7e-af22-1044f4445011" />
+   <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/330a9f29-cb9a-4a5f-96a3-63f5114115c0" />
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/9f392fd0-ba39-44c4-aaf8-a2d7dcca44ee" />
+   <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/aac1d903-033d-440d-a221-301350d93347" />
 
 7. Resultado del análisis del Docker Scout
 
@@ -85,7 +85,7 @@ La tarea contiene los siguientes archivos:
 
 8. Validar la creación de la imagen en el Docker Hub
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/45c1d5d3-71f5-42ef-9b8e-e03b9dc98e8a" />
+   <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/7f8e7873-847f-428b-9517-9c9741cf9c6f" />
 
 <br/>
 
